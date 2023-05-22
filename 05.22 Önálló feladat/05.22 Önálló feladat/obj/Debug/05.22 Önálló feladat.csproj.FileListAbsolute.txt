@@ -1,0 +1,8 @@
+C:\Users\losonczi.jozsef\source\repos\05.22 Önálló feladat\05.22 Önálló feladat\obj\Debug\05.22 Önálló feladat.csproj.AssemblyReference.cache
+C:\Users\losonczi.jozsef\source\repos\05.22 Önálló feladat\05.22 Önálló feladat\obj\Debug\05.22 Önálló feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\losonczi.jozsef\source\repos\05.22 Önálló feladat\05.22 Önálló feladat\obj\Debug\05.22 Önálló feladat.csproj.CoreCompileInputs.cache
+C:\Users\losonczi.jozsef\source\repos\05.22 Önálló feladat\05.22 Önálló feladat\bin\Debug\05.22 Önálló feladat.exe.config
+C:\Users\losonczi.jozsef\source\repos\05.22 Önálló feladat\05.22 Önálló feladat\bin\Debug\05.22 Önálló feladat.exe
+C:\Users\losonczi.jozsef\source\repos\05.22 Önálló feladat\05.22 Önálló feladat\bin\Debug\05.22 Önálló feladat.pdb
+C:\Users\losonczi.jozsef\source\repos\05.22 Önálló feladat\05.22 Önálló feladat\obj\Debug\05.22 Önálló feladat.exe
+C:\Users\losonczi.jozsef\source\repos\05.22 Önálló feladat\05.22 Önálló feladat\obj\Debug\05.22 Önálló feladat.pdb
